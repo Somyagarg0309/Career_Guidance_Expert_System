@@ -20,7 +20,7 @@
 ## Technologies Used
 
 - **React** for frontend
-- **Python** for backend logic and expert system reasoning (optional)
+- **Python** for backend logic and expert system reasoning 
 - **Tailwind CSS** for styling
 - **Lucide Icons** for UI icons
 - JavaScript for frontend logic and match calculations
